@@ -94,6 +94,8 @@ Through the development of iPixelo, the project demonstrates:
 
 This project was developed for **academic purposes at Universiti Teknologi Malaysia (UTM)**.
 
+---
+
 # 🖥 System Preview
 
 ![Main Interface](images/homepage.png)
