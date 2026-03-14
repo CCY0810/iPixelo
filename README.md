@@ -9,7 +9,7 @@ The system integrates **OpenCV image processing capabilities with a PyQt6 GUI**,
 
 ---
 
-# ✨ Features
+# ✨ Key Features
 
 ## 🖼 Image Transformations
 - Crop images
