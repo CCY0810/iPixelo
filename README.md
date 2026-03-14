@@ -100,3 +100,9 @@ This project was developed for **academic purposes at Universiti Teknologi Malay
 
 ![Main Interface](images/homepage.png)
 ![Editing Example](images/image_editing_control_panel.png)
+
+---
+
+## 📄 Project Documentation
+
+[View Full Project Report](docs/report.pdf)
